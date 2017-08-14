@@ -28,6 +28,6 @@ class AboutController extends Controller
     public function getMessages()
     {
         $messages = Message::all();
-        return view ('messages')->width('messages',$messages);
+        return view ('messages')->with('messages',$messages);
     }
 }

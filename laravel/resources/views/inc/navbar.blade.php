@@ -19,7 +19,7 @@
             <li class="active"><a href="/home">Home <span class="sr-only">(current)</span></a></li>
 
             <li><a href="/about">About Me</a></li>
-            <li><a href="#">Summit</a></li>
+            <li><a href="/messages">Messages</a></li>
             <li><a href="#">Testimonials</a></li>
             <li><a href="#">Social Involvements</a></li>
             <li><a href="#">Upcoming Trips</a></li>
