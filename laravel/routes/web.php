@@ -23,3 +23,5 @@ Route::get('about', function () {
     return view('about');
 });
 Route::post('/contact/submit', 'AboutController@submit' );
+
+Route::get('/messages', 'AboutController@getMessages' );
